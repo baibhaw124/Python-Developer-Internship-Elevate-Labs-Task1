@@ -42,7 +42,6 @@ Exception handling (try/except)
 CLI-based interaction
 
 🖼 Screenshots
-Add these into your README after uploading:
 [Code Screenshot1](code1.png)
 [Code Screenshot2](code2.png)
 [Code Screenshot3](code3.png)
@@ -51,7 +50,7 @@ Add these into your README after uploading:
 [Output Screenshot3](output2.png)
 
 📘code file
-(calculator.py)
+[Code file](calculator.py)
 
 📚 Additional Notes
 This task helped reinforce:
